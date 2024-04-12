@@ -9,7 +9,6 @@ At the end of this project I will have:
     - Set up a project directory with accompanying file structure for the project including things like:
         - index.html (main file) with links to accompanying recipe pages
         - directories for new recipe pages 
-        - directory for recipe images
     - Created a recipe website using HTML utilizing various HTML elements like headings, paragraphs, images, image captions, lists. 
     - Published project to Github to view on the web.
 
