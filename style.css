@@ -1,0 +1,46 @@
+html {
+    box-sizing: border-box;
+    /* messing with inline/block element styling */
+}
+
+body {
+    font-family: Helvetica, Verdana, sans-serif;
+    margin: 10px 5px;
+    background-image: linear-gradient(180deg, antiquewhite, #d9fca4);
+    
+}
+
+
+h1 {
+    font-weight: 600;
+    font-size: 68px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+li {
+    font-size: 24px;
+    font-weight: 200;
+    color: rgb(125, 175, 255);
+    padding: 5px;
+}
+
+em {
+    font-weight: lighter;
+}
+
+.tip {
+    font-weight: lighter;
+    font-style: italic;
+    font-size: 20px;
+}
+
+a {
+    color: blueviolet;
+}
+
+.itemlist {
+    display: block;
+}
